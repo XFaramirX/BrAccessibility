@@ -1,0 +1,17 @@
+{
+  "name": "hackathonapplitools",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "exampleNpX": "npx cypress run --browser chrome --spec 'cypress/integration/examples/ultraFastGrid.spec.js'",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.13.4",
+    "cypress": "^4.7.0",
+    "cypress-axe": "^0.8.1",
+    "cypress-dark": "^1.7.14"
+  }
+}

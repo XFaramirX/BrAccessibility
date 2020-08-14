@@ -1,0 +1,376 @@
+[
+  {
+    "component": "Article Hero",
+    "variations": [
+      {
+        "name": "Hero-Basic",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic/02-organisms-heros-hero-basic.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-basic",
+        "selector": ".o-hero--basic",
+        "rules": {
+          "rules": {
+            "link-name": { "enabled": false }
+          }
+        },
+        "exclude": false
+      },
+      {
+        "name": "Hero-basic-3x4-2up-texture",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic-3x4-2up-texture/02-organisms-heros-hero-basic-3x4-2up-texture.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-basic-3x4-2up-texture",
+        "selector": ".o-hero",
+        "exclude": false
+      },
+      {
+        "name": "Hero-basic-1x1",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic-1x1/02-organisms-heros-hero-basic-1x1.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-basic-1x1",
+        "selector": ".o-hero--basic",
+        "rules": {
+          "rules": {
+            "link-name": { "enabled": false }
+          }
+        },
+        "exclude": false
+      },
+      {
+        "name": "Hero-basic-8x5",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic-8x5/02-organisms-heros-hero-basic-8x5.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-hero-basic-8x5",
+        "selector": ".o-hero--basic",
+        "rules": {
+          "rules": {
+            "link-name": { "enabled": false }
+          }
+        },
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Author Card",
+    "variations": [
+      {
+        "name": "Author card-simple",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-blocks-author-card/01-molecules-blocks-author-card.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-author-card",
+        "exclude": false
+      },
+      {
+        "name": "Author card-favorite",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-blocks-author-card-favorite-product/01-molecules-blocks-author-card-favorite-product.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-author-card-favorite-product",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Body Copy",
+    "variations": [
+      {
+        "name": "Body Copy",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-body-copy/01-molecules-text-body-copy.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-body-copy",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Breadcrumbs",
+    "variations": [
+      {
+        "name": "Breadcrumbs",
+        "url": "https://brooks-pattern-library-refresh-pdp-qa.azurewebsites.net/patterns/00-atoms-00-global-breadcrumbs-refresh/00-atoms-00-global-breadcrumbs-refresh.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-pdp-qa.azurewebsites.net/?p=atoms-breadcrumbs-refresh",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Buy Box",
+    "variations": [
+      {
+        "name": "Buy box",
+        "url": "https://brooks-pattern-library-refresh-pdp-qa.azurewebsites.net/patterns/01-molecules-blocks-buy-box/01-molecules-blocks-buy-box.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-pdp-qa.azurewebsites.net/?p=molecules-buy-box",
+        "exclude": false
+      },
+      {
+        "name": "Buy box Header",
+        "url": "https://brooks-pattern-library-refresh-pdp-qa.azurewebsites.net/patterns/04-pages-pdp-refresh/04-pages-pdp-refresh.rendered.html",
+        "exclude": false,
+        "selector": ".o-pdp-header"
+      }
+    ]
+  },
+  {
+    "component": "Content Tags",
+    "variations": [
+      {
+        "name": "Content Tags",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-lists-tags/01-molecules-lists-tags.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-tags",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Copy Block",
+    "variations": [
+      {
+        "name": "Copy-block",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block/01-molecules-text-copy-block.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block",
+        "exclude": false,
+        "selector": ".u-container--copy-block"
+      },
+      {
+        "name": "Copy-block-one-cta",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block-one-cta",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block-one-cta/01-molecules-text-copy-block-one-cta.rendered.html",
+        "selector": ".u-container--copy-block",
+        "exclude": false
+      },
+      {
+        "name": "Copy-block-center",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block-center/01-molecules-text-copy-block-center.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block-center",
+        "selector": ".u-container--copy-block",
+        "exclude": false
+      },
+      {
+        "name": "Copy-block-split",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block-split/01-molecules-text-copy-block-split.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block-split",
+        "selector": ".u-container--copy-block",
+        "exclude": false
+      },
+      {
+        "name": "Copy-block-themed",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-copy-block-themed/01-molecules-text-copy-block-themed.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-copy-block-themed",
+        "selector": ".u-container--copy-block",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "CountDown Clock",
+    "variations": [
+      {
+        "name": "CountDown Light",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-blocks-44-countdown/01-molecules-blocks-44-countdown.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-countdown",
+        "exclude": false
+      },
+      {
+        "name": "CountDown Dark",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-blocks-44-countdown-dark/01-molecules-blocks-44-countdown-dark.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-countdown-dark",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Exploded View",
+    "variations": [
+      {
+        "name": "ExplodedView Simple",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-sections-exploded-view/02-organisms-sections-exploded-view.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-exploded-view",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "End Mark",
+    "variations": [
+      {
+        "name": "End Mark",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/03-templates-article/03-templates-article.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=templates-article",
+        "selector": ".m-body-copy--with-endmark",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Feature Call out",
+    "variations": [
+      {
+        "name": "Feauture Call out",
+        "url": "https://brooks-pattern-library-refresh-pdp-qa.azurewebsites.net/patterns/02-organisms-feature-callout-feature-callout/02-organisms-feature-callout-feature-callout.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=templates-article",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Gear HighLight",
+    "variations": [
+      {
+        "name": "Gear HighLight",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-sections-gear-highlight/02-organisms-sections-gear-highlight.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-gear-highlight",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Heros",
+    "variations": [
+      {
+        "name": "Hero media-Block",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-01-hero-media-block/02-organisms-heros-01-hero-media-block.rendered.html",
+        "exclude": false
+      },
+      {
+        "name": "Hero media-Gradient",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-01-hero-media-image-title/02-organisms-heros-01-hero-media-image-title.rendered.html",
+        "exclude": false
+      },
+      {
+        "name": "Hero particle",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-particle/02-organisms-heros-hero-particle.rendered.html",
+        "rules": {
+          "rules": {
+            "color-contrast": { "enabled": false }
+          }
+        },
+        "exclude": true
+      },
+      {
+        "name": "Hero product",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-product/02-organisms-heros-hero-product.rendered.html",
+        "exclude": false
+      },
+      {
+        "name": "Hero product Video",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-product/02-organisms-heros-hero-product.rendered.html",
+        "exclude": false
+      },
+      {
+        "name": "Hero Simple",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-simple/02-organisms-heros-hero-simple.rendered.html",
+        "exclude": true
+      }
+    ]
+  },
+  {
+    "component": "Media images",
+    "variations": [
+      {
+        "name": "Media Single",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card/02-organisms-media-card-media-card.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card",
+        "selector": ".o-media-card",
+        "exclude": false
+      },
+      {
+        "name": "Media-card-pull-left",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-pull-left/02-organisms-media-card-media-card-pull-left.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-pull-left",
+        "selector": ".o-media-card",
+        "exclude": false
+      },
+      {
+        "name": "Media-card-pull-right",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-pull-right/02-organisms-media-card-media-card-pull-right.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-pull-right",
+        "selector": ".o-media-card",
+        "exclude": false
+      },
+      {
+        "name": "Media-card-three-up",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-heros-hero-basic-3x4-2up-texture/02-organisms-heros-hero-basic-3x4-2up-texture.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-three-up",
+        "selector": ".o-hero--basic",
+        "exclude": false
+      },
+      {
+        "name": "Media-card-two-up-large-left",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-two-up-large-left/02-organisms-media-card-media-card-two-up-large-left.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-two-up-large-left",
+        "selector": ".o-media-card",
+        "exclude": false
+      },
+      {
+        "name": "Media-card-two-up-stacked-landscape",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-two-up-stacked-landscape/02-organisms-media-card-media-card-two-up-stacked-landscape.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-two-up-stacked-landscape",
+        "selector": ".o-media-card",
+        "exclude": false
+      },
+      {
+        "name": "Media-card-two-up-stacked-portrait",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-two-up-stacked-portrait/02-organisms-media-card-media-card-two-up-stacked-portrait.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-two-up-stacked-portrait",
+        "selector": ".o-media-card",
+        "exclude": false
+      },
+
+      {
+        "name": "Media-card-wide",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-media-card-media-card-wide/02-organisms-media-card-media-card-wide.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-media-card-wide",
+        "selector": ".o-media-card__card",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Product Carousel",
+    "variations": [
+      {
+        "name": "Product-carousel",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-sections-product-carousel/02-organisms-sections-product-carousel.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-product-carousel",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Quote",
+    "variations": [
+      {
+        "name": "Quote",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/01-molecules-text-quote/01-molecules-text-quote.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=molecules-quote",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Recommended Content",
+    "variations": [
+      {
+        "name": "Recommended Content",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-sections-recommended-content/02-organisms-sections-recommended-content.rendered.html#",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-recommended-content",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Recently View",
+    "variations": [
+      {
+        "name": "Recently View",
+        "url": "https://brooks-pattern-library-refresh-pdp-qa.azurewebsites.net/patterns/01-molecules-blocks-recently-viewed/01-molecules-blocks-recently-viewed.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-pdp-qa.azurewebsites.net/?p=molecules-recently-viewed",
+        "exclude": false
+      }
+    ]
+  },
+  {
+    "component": "Social Media Share",
+    "variations": [
+      {
+        "name": "Social-media-share",
+        "url": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/patterns/02-organisms-00-global-social-media-share/02-organisms-00-global-social-media-share.rendered.html",
+        "patternURLab": "https://brooks-pattern-library-refresh-qa.azurewebsites.net/?p=organisms-social-media-share",
+        "exclude": false
+      }
+    ]
+  }
+]

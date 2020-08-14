@@ -1,0 +1,9 @@
+{
+  "baseUrl": "https://brooks-pattern-library-refresh-qa.azurewebsites.net",
+  "chromeWebSecurity": false,
+  "$schema": "https://on.cypress.io/cypress.schema.json",
+  "ignoreTestFiles": ["**/singleComponent.js"],
+  "theme": "dark",
+  "darkMediaQuery": false,
+  "video": false
+}
